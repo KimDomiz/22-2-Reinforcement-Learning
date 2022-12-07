@@ -1,4 +1,4 @@
-# 강화학습 기말 프로젝트 8조입니다.
+# 강화학습 기말 프로젝트 8조
 <br/>
 Colab 환경에서 버전 충돌 문제로 제대로 작동하지 않기 때문에 로컬에서 코드를 실행하였습니다.
 
@@ -8,6 +8,10 @@ Colab 환경에서 버전 충돌 문제로 제대로 작동하지 않기 때문�
 <br/>
 
 ![parkingobs](https://user-images.githubusercontent.com/87467742/205905988-2d289092-49e4-4a9f-8e57-edd709fa8a7c.PNG)
+
+<br/>
+사용 환경입니다. Highway-env(https://github.com/eleurent/highway-env) 의 parking-v0 환경에서 프로젝트를 진행하였습니다.
+
 <br/><br/><br/>
 ## Deep Q Network (DQN)
 <br/>
