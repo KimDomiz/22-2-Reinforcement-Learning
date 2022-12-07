@@ -21,7 +21,7 @@
 
 ### Cross Entropy Method (CEM)
 <br/><br/>
-## CEM with no model
+# CEM with no model
 <br/>
 
 ![cem](https://user-images.githubusercontent.com/87467742/206056860-535ad61e-ccfa-45e1-babf-6e4fed4aa2c5.gif)
